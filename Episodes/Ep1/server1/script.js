@@ -25,18 +25,18 @@ const playerInstance = jwplayer("player").setup({
         description: "Foundou2 Ep01",
         image: "../../../foundou2.png",
         sources: [{
-        file: "https://onedrive.live.com/download?cid=XXXXX&resid=XXXX&authkey=XXXX",
+        file: "https://onedrive.live.com/download?cid=A3D539BAA5EDB1E3&resid=A3D539BAA5EDB1E3%21112&authkey=AGxGC06al0lb0Pw",
           label: '1080p',
           'type': 'mp4',
           primary: 'html5',
 
         },{
-         file: "https://onedrive.live.com/download?cid=XXXXX&resid=XXXX&authkey=XXXX",
+         file: "https://onedrive.live.com/download?cid=A3D539BAA5EDB1E3&resid=A3D539BAA5EDB1E3%21112&authkey=AGxGC06al0lb0Pw",
           label: '720p',
           'type': 'mp4',
           primary: 'html5',
         },{
-         file: "https://onedrive.live.com/download?cid=XXXXX&resid=XXXX&authkey=XXXX",
+         file: "https://onedrive.live.com/download?cid=A3D539BAA5EDB1E3&resid=A3D539BAA5EDB1E3%21112&authkey=AGxGC06al0lb0Pw",
           label: '480p',
           'type': 'mp4',
           primary: 'html5',
