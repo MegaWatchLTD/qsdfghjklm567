@@ -64,8 +64,8 @@ function changeurl1(){
 
 
 function changeurl2(){
-   document.getElementById("Ep1-1").setAttribute("href", "../Episodes/Ep1/server2/play.html");
-   document.getElementById("Ep1-2").setAttribute("href", "../Episodes/Ep1/server2/play.html");
+   document.getElementById("Ep1-1").setAttribute("href", "https://vidbam.org/embed-u3x17fu4gz22.html");
+   document.getElementById("Ep1-2").setAttribute("href", "https://vidbam.org/embed-u3x17fu4gz22.html");
 
    document.getElementById("Ep2-1").setAttribute("href", "../Episodes/Ep2/server2/play.html");
    document.getElementById("Ep2-2").setAttribute("href", "../Episodes/Ep2/server2/play.html");
@@ -129,8 +129,8 @@ function changeurl2(){
 
 
 function changeurl3(){
-   document.getElementById("Ep1-1").setAttribute("href", "../Episodes/Ep1/server3/play.html");
-   document.getElementById("Ep1-2").setAttribute("href", "../Episodes/Ep1/server3/play.html");
+   document.getElementById("Ep1-1").setAttribute("href", "https://vudeo.io/embed-y8gzcw5nz3b3.html");
+   document.getElementById("Ep1-2").setAttribute("href", "https://vudeo.io/embed-y8gzcw5nz3b3.html");
 
    document.getElementById("Ep2-1").setAttribute("href", "../Episodes/Ep2/server3/play.html");
    document.getElementById("Ep2-2").setAttribute("href", "../Episodes/Ep2/server3/play.html");
@@ -195,8 +195,8 @@ function changeurl3(){
 
 
 function changeurl4(){
-   document.getElementById("Ep1-1").setAttribute("href", "../Episodes/Ep1/server4/play.html");
-   document.getElementById("Ep1-2").setAttribute("href", "../Episodes/Ep1/server4/play.html");
+   document.getElementById("Ep1-1").setAttribute("href", "https://uqload.com/embed-jf4vnkzqrjqo.html");
+   document.getElementById("Ep1-2").setAttribute("href", "https://uqload.com/embed-jf4vnkzqrjqo.html");
 
    document.getElementById("Ep2-1").setAttribute("href", "../Episodes/Ep2/server4/play.html");
    document.getElementById("Ep2-2").setAttribute("href", "../Episodes/Ep2/server4/play.html");
