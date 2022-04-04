@@ -5,8 +5,8 @@ function changeurl1(){
    document.getElementById("Ep2-1").setAttribute("href", "https://vidbam.org/embed-n2bpl43p446o.html");
    document.getElementById("Ep2-2").setAttribute("href", "https://vidbam.org/embed-n2bpl43p446o.html");
 
-   document.getElementById("Ep3-1").setAttribute("href", "../Episodes/Ep3/server1/play.html");
-   document.getElementById("Ep3-2").setAttribute("href", "../Episodes/Ep3/server1/play.html");
+   document.getElementById("Ep3-1").setAttribute("href", "https://anafast.cc/embed-xuiz9epswa51.html");
+   document.getElementById("Ep3-2").setAttribute("href", "https://anafast.cc/embed-xuiz9epswa51.html");
 
    document.getElementById("Ep4-1").setAttribute("href", "../Episodes/Ep4/server1/play.html");
    document.getElementById("Ep4-2").setAttribute("href", "../Episodes/Ep4/server1/play.html");
@@ -70,8 +70,8 @@ function changeurl2(){
    document.getElementById("Ep2-1").setAttribute("href", "https://vudeo.io/embed-0i3zv82fz51k.html");
    document.getElementById("Ep2-2").setAttribute("href", "https://vudeo.io/embed-0i3zv82fz51k.html");
 
-   document.getElementById("Ep3-1").setAttribute("href", "../Episodes/Ep3/server2/play.html");
-   document.getElementById("Ep3-2").setAttribute("href", "../Episodes/Ep3/server2/play.html");
+   document.getElementById("Ep3-1").setAttribute("href", "https://anafast.cc/embed-xuiz9epswa51.html");
+   document.getElementById("Ep3-2").setAttribute("href", "https://anafast.cc/embed-xuiz9epswa51.html");
 
    document.getElementById("Ep4-1").setAttribute("href", "../Episodes/Ep4/server2/play.html");
    document.getElementById("Ep4-2").setAttribute("href", "../Episodes/Ep4/server2/play.html");
@@ -135,8 +135,8 @@ function changeurl3(){
    document.getElementById("Ep2-1").setAttribute("href", "https://uqload.com/embed-s8ltk6fiqxtf.html");
    document.getElementById("Ep2-2").setAttribute("href", "https://uqload.com/embed-s8ltk6fiqxtf.html");
 
-   document.getElementById("Ep3-1").setAttribute("href", "../Episodes/Ep3/server3/play.html");
-   document.getElementById("Ep3-2").setAttribute("href", "../Episodes/Ep3/server3/play.html");
+   document.getElementById("Ep3-1").setAttribute("href", "https://anafast.cc/embed-xuiz9epswa51.html");
+   document.getElementById("Ep3-2").setAttribute("href", "https://anafast.cc/embed-xuiz9epswa51.html");
 
    document.getElementById("Ep4-1").setAttribute("href", "../Episodes/Ep4/server3/play.html");
    document.getElementById("Ep4-2").setAttribute("href", "../Episodes/Ep4/server3/play.html");
