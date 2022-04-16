@@ -41,8 +41,8 @@ function changeurl1(){
    document.getElementById("Ep14-1").setAttribute("href", "https://myviid.com/embed-zvw04dmqgmup.html");
    document.getElementById("Ep14-2").setAttribute("href", "https://myviid.com/embed-zvw04dmqgmup.html");
 
-   document.getElementById("Ep15-1").setAttribute("href", "../Episodes/Ep15/server1/play.html");    
-   document.getElementById("Ep15-2").setAttribute("href", "../Episodes/Ep15/server1/play.html");    
+   document.getElementById("Ep15-1").setAttribute("href", "https://userload.co/embed/f60b8192aa53/");    
+   document.getElementById("Ep15-2").setAttribute("href", "https://userload.co/embed/f60b8192aa53/");    
 
    document.getElementById("Ep16-1").setAttribute("href", "../Episodes/Ep16/server1/play.html");
    document.getElementById("Ep16-2").setAttribute("href", "../Episodes/Ep16/server1/play.html");
@@ -106,8 +106,8 @@ function changeurl2(){
    document.getElementById("Ep14-1").setAttribute("href", "https://uqload.com/embed-1b8vgkd18to7.html");
    document.getElementById("Ep14-2").setAttribute("href", "https://uqload.com/embed-1b8vgkd18to7.html");
 
-   document.getElementById("Ep15-1").setAttribute("href", "../Episodes/Ep15/server2/play.html");    
-   document.getElementById("Ep15-2").setAttribute("href", "../Episodes/Ep15/server2/play.html");    
+   document.getElementById("Ep15-1").setAttribute("href", "https://uqload.com/embed-bywto77ynuvf.html");    
+   document.getElementById("Ep15-2").setAttribute("href", "https://uqload.com/embed-bywto77ynuvf.html");    
 
    document.getElementById("Ep16-1").setAttribute("href", "../Episodes/Ep16/server2/play.html");
    document.getElementById("Ep16-2").setAttribute("href", "../Episodes/Ep16/server2/play.html");
@@ -171,8 +171,8 @@ function changeurl3(){
    document.getElementById("Ep14-1").setAttribute("href", "https://uqload.com/embed-1b8vgkd18to7.html");
    document.getElementById("Ep14-2").setAttribute("href", "https://uqload.com/embed-1b8vgkd18to7.html");
 
-   document.getElementById("Ep15-1").setAttribute("href", "../Episodes/Ep15/server3/play.html");    
-   document.getElementById("Ep15-2").setAttribute("href", "../Episodes/Ep15/server3/play.html");    
+   document.getElementById("Ep15-1").setAttribute("href", "https://uqload.com/embed-bywto77ynuvf.html");    
+   document.getElementById("Ep15-2").setAttribute("href", "https://uqload.com/embed-bywto77ynuvf.html");    
 
    document.getElementById("Ep16-1").setAttribute("href", "../Episodes/Ep16/server3/play.html");
    document.getElementById("Ep16-2").setAttribute("href", "../Episodes/Ep16/server3/play.html");
