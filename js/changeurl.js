@@ -56,8 +56,8 @@ function changeurl1(){
    document.getElementById("Ep19-1").setAttribute("href", "https://myviid.com/embed-toipxnwn4e7b.html");        
    document.getElementById("Ep19-2").setAttribute("href", "https://myviid.com/embed-toipxnwn4e7b.html");        
 
-   document.getElementById("Ep20-1").setAttribute("href", "../Episodes/Ep20/server1/play.html");
-   document.getElementById("Ep20-2").setAttribute("href", "../Episodes/Ep20/server1/play.html");
+   document.getElementById("Ep20-1").setAttribute("href", "https://myviid.com/embed-zdvpbv5tsufq.html");
+   document.getElementById("Ep20-2").setAttribute("href", "https://myviid.com/embed-zdvpbv5tsufq.html");
     
    return false;
    }
@@ -121,8 +121,8 @@ function changeurl2(){
    document.getElementById("Ep19-1").setAttribute("href", "https://vudeo.io/embed-xmcqaxfo0d6s.html");        
    document.getElementById("Ep19-2").setAttribute("href", "https://vudeo.io/embed-xmcqaxfo0d6s.html");        
 
-   document.getElementById("Ep20-1").setAttribute("href", "../Episodes/Ep20/server2/play.html");
-   document.getElementById("Ep20-2").setAttribute("href", "../Episodes/Ep20/server2/play.html");
+   document.getElementById("Ep20-1").setAttribute("href", "https://uqload.com/embed-g9574ji0bp01.html");
+   document.getElementById("Ep20-2").setAttribute("href", "https://uqload.com/embed-g9574ji0bp01.html");
 
    return false;
    }
@@ -186,8 +186,8 @@ function changeurl3(){
    document.getElementById("Ep19-1").setAttribute("href", "https://uqload.com/embed-myas5ifgs0l1.html");        
    document.getElementById("Ep19-2").setAttribute("href", "https://uqload.com/embed-myas5ifgs0l1.html");        
 
-   document.getElementById("Ep20-1").setAttribute("href", "../Episodes/Ep20/server3/play.html");
-   document.getElementById("Ep20-2").setAttribute("href", "../Episodes/Ep20/server3/play.html");
+   document.getElementById("Ep20-1").setAttribute("href", "https://uqload.com/embed-g9574ji0bp01.html");
+   document.getElementById("Ep20-2").setAttribute("href", "https://uqload.com/embed-g9574ji0bp01.html");
 
    return false;
    }
